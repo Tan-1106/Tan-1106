@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nguyễn Nhật Tân</h1>
+<h3 align="center">🎓 Student Developer | 🤖 AI & Backend Enthusiast | 📱 Android Kotlin Learner</h3>
 
-<!--
-**Tan-1106/Tan-1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧭 About Me
+- 🧠 I’m currently building an **AI-powered Question Answering System for Students** using **Retrieval-Augmented Generation (RAG)**  
+- 📱 I have experience in **Android Native (Kotlin)** and **Firebase**  
+- ⚙️ I’m also exploring **FastAPI**, **Node.js**, **MongoDB**, and **Docker** for backend development  
+- 💬 I love building projects that combine **AI + practical applications**  
+- 📫 Reach me at **tanlxag116@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+#### 💡 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</p>
+
+#### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📚 Featured Project
+#### 🎓 **TDTU-QA-System**
+> A RAG-based Question Answering System designed for TDTU students, helping them find university regulations and procedures quickly.  
+> 🧩 Built with **FastAPI**, **LangChain**, **MongoDB**, and **LLM embeddings**
+
+🔗 [View on GitHub](https://github.com/Tan-1106/tdtu-qa-system)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tan-1106&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-1106&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌱 Currently Learning
+- 🧩 **Retrieval-Augmented Generation (RAG)**
+- ⚙️ **FastAPI & Docker**
+- ☁️ **Deploying AI systems at scale**
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="mailto:tanlxag116@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Tan-1106">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *From [Tan-1106](https://github.com/Tan-1106)*
