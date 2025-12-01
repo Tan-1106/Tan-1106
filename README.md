@@ -38,12 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Streak Stats](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=false)
-
----
-
 ### 🌱 Currently Learning  
 - 🧩 Deepening knowledge of **Retrieval-Augmented Generation (RAG)** systems.  
 - ⚙️ Building scalable backends with **FastAPI + Docker**.  
