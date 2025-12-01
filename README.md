@@ -38,11 +38,9 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tan-1106&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-1106&layout=compact&theme=tokyonight"/>
-</p>
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
 
