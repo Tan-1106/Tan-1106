@@ -45,6 +45,31 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Stats card -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Tan-1106&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="160"
+/>
+
+<!-- Top languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-1106&layout=compact&theme=tokyonight&hide_border=true" 
+  height="160"
+/>
+
+<!-- Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=Tan-1106&theme=tokyonight&hide_border=true" 
+  height="160"
+/>
+
+</div>
+
+
 ### 🌐 Connect With Me  
 <p align="left">
   <a href="mailto:tanlxag116@gmail.com">
