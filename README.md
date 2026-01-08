@@ -1,60 +1,83 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Nhật Tân</h1>
-<h3 align="center">🎓 Student Developer | 🤖 AI & Backend Enthusiast | 📱 Android Kotlin Developer</h3>
+<h1 align="center">Hi, I'm Tan 👋</h1>
+<h3 align="center">Final-year Software Engineering Student | Mobile Developer | Backend Explorer</h3>
 
 ---
 
-### 🧭 About Me  
-- 🧠 I’m currently building an **AI-powered Question Answering System for Students (RAG)**.  
-- 📱 I have experience in **Android Native (Kotlin)** and **Firebase**.  
-- ⚙️ I’m also working with **FastAPI**, **Node.js**, **MongoDB**, and **Docker**.  
-- 💬 I love building **practical applications**.  
-- 📫 Reach me at **tanlxag116@gmail.com**
+## 🧠 About Me
+
+I'm a **final-year Software Engineering student** with a strong interest in building **practical software systems** — from mobile applications to backend services.
+
+I enjoy turning ideas into working products, especially where **clean architecture**, **performance**, and **developer experience** matter.
 
 ---
 
-### 🛠️ Tech Stack  
-#### 💡 Languages & Frameworks  
+## 🚀 What I Do
+
+### 📱 Mobile Development
+- Native Android using **Kotlin & Jetpack Compose**
+- Cross-platform apps with **Flutter (Dart)**
+- Focus on UI consistency, state management, and performance
+
+### 🧩 Backend & AI Integration
+- Built RESTful backends with **FastAPI**
+- Integrated **AI chatbots** into applications
+- Designed and implemented **RAG (Retrieval-Augmented Generation) pipelines**
+- Experience with API design, request validation, and async workflows
+
+### 🛠️ Tools & Technologies
+- **Docker** for containerization
+- **Git / GitHub** for version control
+- **Postman** for API testing
+- Databases:
+  - **MongoDB**
+  - **SQL Server**
+
+---
+
+## 🧰 Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-</p>
-
-#### 🗄️ Databases & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 📚 Featured Project  
-#### 📘 **Student-Information-Management**  
-> A full-stack project for managing student information, built with Kotlin Android (frontend), Firebase (backend/data).  
-🔗 [View on GitHub](https://github.com/Tan-1106/Student-Information-Management)
-
----
-
-### 🌱 Currently Learning  
-- 🧩 Deepening knowledge of **Retrieval-Augmented Generation (RAG)** systems.  
-- ⚙️ Building scalable backends with **FastAPI + Docker**.  
-- ☁️ Exploring cloud deployment for AI systems and mobile applications.
-
----
-
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="mailto:tanlxag116@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Tan-1106">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,fastapi,python,docker,git,github,mongodb,sqlite,postman&perline=6" />
 </p>
 
 ---
 
-⭐️ *From [Tan-1106](https://github.com/Tan-1106)*
+## 📊 GitHub Statistics
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-1106&theme=tokyonight" />
+</p>
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tan-1106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+### 🧪 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-1106&layout=compact&theme=tokyonight" />
+</p>
+
+> ⚠️ Note: Language stats are based on public repositories and may not reflect all experience.
+
+---
+
+## 📬 Contact Me
+
+- **GitHub:** [Tan-1106](https://github.com/Tan-1106)
+- **Email:** tanlxag116@gmail.com
+- **Phone:** 0918 356 643
+
+---
+
+## 🌱 Currently Focusing On
+- Improving **system design** and backend scalability
+- Exploring deeper **AI-assisted applications**
+- Writing cleaner, more maintainable code
+
+---
+
+<p align="center">
+  <i>Building software is less about typing code, more about thinking clearly.</i>
+</p>
