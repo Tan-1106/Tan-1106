@@ -44,20 +44,18 @@ I enjoy turning ideas into working products, especially where **clean architectu
 
 ## 📊 GitHub Statistics
 
-### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-1106&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tan-1106&show_icons=true&theme=tokyonight" />
 </p>
 
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tan-1106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tan-1106&layout=donut&theme=tokyonight" />
 </p>
 
-### 🧪 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan-1106&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Tan-1106&theme=tokyonight" />
 </p>
+
 
 > ⚠️ Note: Language stats are based on public repositories and may not reflect all experience.
 
