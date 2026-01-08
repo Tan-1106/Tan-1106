@@ -49,15 +49,36 @@ I enjoy turning ideas into working products, especially where **clean architectu
 </p>
 
 <p align="center">
+  <sub>
+    Overall GitHub activity — repositories, commits, and long-term consistency.<br/>
+    This reflects how often I build, experiment, and iterate over time.
+  </sub>
+</p>
+
+---
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tan-1106&layout=donut&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <sub>
+    Language usage based on public repositories.<br/>
+    Strong focus on mobile development and backend services.
+  </sub>
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Tan-1106&theme=tokyonight" />
 </p>
 
-
-> ⚠️ Note: Language stats are based on public repositories and may not reflect all experience.
+<p align="center">
+  <sub>
+    Contribution streak — showing consistency rather than short bursts of activity.
+  </sub>
+</p>
 
 ---
 
