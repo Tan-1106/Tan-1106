@@ -14,8 +14,8 @@ I enjoy turning ideas into working products, especially where **clean architectu
 ## 🚀 What I Do
 
 ### 📱 Mobile Development
-- Native Android using **Kotlin & Jetpack Compose**
 - Cross-platform apps with **Flutter (Dart)**
+- Native Android using **Kotlin & Jetpack Compose**
 - Focus on UI consistency, state management, and performance
 
 ### 🧩 Backend & AI Integration
@@ -87,13 +87,6 @@ I enjoy turning ideas into working products, especially where **clean architectu
 - **GitHub:** [Tan-1106](https://github.com/Tan-1106)
 - **Email:** tanlxag116@gmail.com
 - **Phone:** 0918 356 643
-
----
-
-## 🌱 Currently Focusing On
-- Improving **system design** and backend scalability
-- Exploring deeper **AI-assisted applications**
-- Writing cleaner, more maintainable code
 
 ---
 
