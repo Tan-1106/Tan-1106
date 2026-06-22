@@ -46,7 +46,7 @@
 
 - **GitHub:** [Tan-1106](https://github.com/Tan-1106)
 - **Email:** tanlxag116@gmail.com
-- **Phone:** 0918 356 643
+- **Phone:** (+84) 918 356 643
 
 ---
 
