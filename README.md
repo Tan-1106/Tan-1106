@@ -1,78 +1,54 @@
-<h1 align="center">Hi, I'm Tan 👋</h1>
-<h3 align="center">Software Developer 🚀 Transitioning to AI Engineer</h3>
+<h1 align="center">Hi 👋, I'm Tan</h1>
+<h3 align="center">Software Engineer | Mobile Developer</h3>
 
 <p align="center">
-  Passionate about building scalable mobile applications and integrating intelligent AI solutions. Always eager to learn and experiment with new technologies.
+  <a href="https://www.linkedin.com/in/tanlxag116/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="tanlxag116" /></a>
+  <a href="mailto:tanlxag116@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="tanlxag116@gmail.com" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 📱 **Mobile Development:** Experienced in building cross-platform and native apps using **Flutter (Dart)** and **Kotlin**. I focus heavily on **Clean Architecture** and robust state management (Riverpod, Get_it) to create maintainable products.
-- 🤖 **AI & LLMs:** Currently expanding my expertise in Artificial Intelligence, with a strong focus on **Retrieval-Augmented Generation (RAG)** systems and multi-agent orchestration.
-- ⚙️ **Backend & AI Tools:** Proficient in building robust APIs and AI pipelines using **FastAPI**, **LlamaIndex**, and **LangGraph**. Hands-on experience with vector databases (ChromaDB) and local LLM deployments (Ollama).
-- 🛠️ **Infrastructure:** Comfortable working with full-stack environments and DevOps essentials like **Docker** and **Kubernetes** to deploy scalable services.
-- 🌱 **Currently Learning:** Advanced AI workflow automation and deeper multi-agent system integrations.
-
----
-
-## 🛠️ Tech Stack
-
-**Mobile:** Flutter | Dart | Kotlin | React Native  
-**AI & Data:** Python | LlamaIndex | LangGraph | ChromaDB | Ollama  
-**Backend & DevOps:** FastAPI | Node.js | TypeScript | Docker | Kubernetes  
+- 🎓 Holds a **Bachelor's degree in Software Engineering (Good classification)** from **Ton Duc Thang University**.
+- 💼 Completed a **6-month internship**, gaining practical industry experience and strengthening my development workflow.
+- 📱 Experienced in **Mobile App Development** using **Kotlin (Jetpack Compose)** and **Dart (Flutter)**.
+- 🌐 Possess foundational knowledge of Web development within the **Node.js** ecosystem.
+- 🤖 Deeply interested in **Machine Learning & NLP**, actively working with **Python**, **LangGraph**, and **LlamaIndex**.
+- 📫 How to reach me: **tanlxag116@gmail.com**
 
 ---
 
-## 📊 GitHub Statistics
+### 🛠️ Tech Stack & Tools
+
+**Mobile Development** <br>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+
+<br>
+
+**Web & Backend** <br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+
+<br>
+
+**AI, ML & NLP** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF9900?style=flat-square&logo=dataversioncontrol&logoColor=white" /> 
+<img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logo=coda&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Tan-1106&show_icons=true&theme=tokyonight" alt="Tan's GitHub Stats" />
 </p>
-
 <p align="center">
-  <sub>
-    Overall GitHub activity — repositories, commits, and long-term consistency.<br/>
-    This reflects how often I build, experiment, and iterate over time.
-  </sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tan-1106&theme=tokyonight&hide_border=true&background=0D1117" alt="Tan's GitHub Streak" />
 </p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tan-1106&layout=donut&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <sub>
-    Language usage based on public repositories.<br/>
-    Strong focus on mobile development and backend services.
-  </sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Tan-1106&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <sub>
-    Contribution streak — showing consistency rather than short bursts of activity.
-  </sub>
-</p>
-
----
-
-## 📬 Contact Me
-
-- **GitHub:** [Tan-1106](https://github.com/Tan-1106)
-- **Email:** tanlxag116@gmail.com
-- **Phone:** (+84) 918 356 643
-
----
-
-<p align="center">
-  <i>Building software is less about typing code, more about thinking clearly.</i>
 </p>
